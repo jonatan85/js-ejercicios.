@@ -1,0 +1,10 @@
+subir ficheros a 
+comandos: clear para limpiar, la terminal.
+
+ruta absoluta si empiezo con barra es que entras a la raiz de la carpeta.
+
+ruta relativas,  ./ que sifnifica la carpeta en la que estoy hora mismo
+
+puedes volver hacia atras con cd ..
+
+si queremos abrir la ruta podemos hacer click derercho y copiar la ruta de acceso relativa.
